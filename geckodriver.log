@@ -1501,3 +1501,285 @@ console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkErr
 
 1638002426994	Marionette	INFO	Stopped listening on port 38857
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638004261588	geckodriver	INFO	Listening on 127.0.0.1:38507
+1638004261591	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41189" "-no-remote" "-profile" "/tmp/rust_mozprofileFLZKSd"
+
+(firefox:43053): Gtk-WARNING **: 10:11:01.612: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1638004261982	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFLZKSd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41189/devtools/browser/b5c32ecb-acf6-4794-9f93-ff3b6250ddff
+1638004262722	Marionette	INFO	Listening on port 42237
+1638004262803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638004284035	Marionette	INFO	Stopped listening on port 42237
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638004286405	geckodriver	INFO	Listening on 127.0.0.1:48627
+1638004286409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59931" "-no-remote" "-profile" "/tmp/rust_mozprofilehHH56U"
+
+(firefox:43404): Gtk-WARNING **: 10:11:26.430: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1638004286762	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehHH56U/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59931/devtools/browser/0f72ce9f-af7b-4f76-b958-cf5747f9f692
+1638004287572	Marionette	INFO	Listening on port 42137
+1638004287619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638004321039	Marionette	INFO	Stopped listening on port 42137
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638004323548	geckodriver	INFO	Listening on 127.0.0.1:34913
+1638004323551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38421" "-no-remote" "-profile" "/tmp/rust_mozprofile474PkY"
+
+(firefox:43733): Gtk-WARNING **: 10:12:03.572: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1638004323894	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile474PkY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38421/devtools/browser/45d2cdc6-b6c4-4c3a-8f74-4056ef1aabcf
+1638004324558	Marionette	INFO	Listening on port 38267
+1638004324661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1638007804873	Marionette	INFO	Stopped listening on port 38267
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638007806665	geckodriver	INFO	Listening on 127.0.0.1:59915
+1638007806669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43411" "-no-remote" "-profile" "/tmp/rust_mozprofileatfMGt"
+
+(firefox:46857): Gtk-WARNING **: 11:10:06.698: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1638007807017	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileatfMGt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43411/devtools/browser/2ec6fd70-6fcd-473f-9ced-5b3d4ba92931
+1638007807693	Marionette	INFO	Listening on port 38703
+1638007807780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://lokalnie-prod-assets.storage.googleapis.com/ui/versions/93c94038/assets/app-93c8343456903baad23bd7df6f415952.css?vsn=d without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://lokalnie-prod-assets.storage.googleapis.com/ui/versions/93c94038/assets/listing-24fa62be1045e5436a5c67591212462d.css?vsn=d without a browsingContextID set
+1638008101493	Marionette	INFO	Stopped listening on port 38703
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638008103125	geckodriver	INFO	Listening on 127.0.0.1:48561
+1638008103128	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58009" "-no-remote" "-profile" "/tmp/rust_mozprofilekQcmZI"
+
+(firefox:47483): Gtk-WARNING **: 11:15:03.149: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1638008103461	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekQcmZI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58009/devtools/browser/581b8039-6859-4ed4-90bc-e4a1ca4e1ee4
+1638008104369	Marionette	INFO	Listening on port 45713
+1638008104439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1638008139166	geckodriver	INFO	Listening on 127.0.0.1:36775
+1638008139169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36739" "-no-remote" "-profile" "/tmp/rust_mozprofileaW4sLg"
+
+(firefox:47845): Gtk-WARNING **: 11:15:39.190: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1638008139529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaW4sLg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36739/devtools/browser/03eef25b-c8d0-4f10-9222-2cc88b8d8821
+1638008140525	Marionette	INFO	Listening on port 37201
+1638008140580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638008140983	Marionette	INFO	Stopped listening on port 45713
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638008229094	Marionette	INFO	Stopped listening on port 37201
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638008234783	geckodriver	INFO	Listening on 127.0.0.1:53461
+1638008234786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48437" "-no-remote" "-profile" "/tmp/rust_mozprofileWQSOZb"
+
+(firefox:48353): Gtk-WARNING **: 11:17:14.809: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1638008235127	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWQSOZb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48437/devtools/browser/62ac194e-81f5-45b2-b4bd-ab7f68fc5f8c
+1638008235848	Marionette	INFO	Listening on port 41951
+1638008235897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1638008288647	Marionette	INFO	Stopped listening on port 41951
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638008291298	geckodriver	INFO	Listening on 127.0.0.1:60215
+1638008291301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49935" "-no-remote" "-profile" "/tmp/rust_mozprofileH1FRNa"
+
+(firefox:48728): Gtk-WARNING **: 11:18:11.321: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1638008291655	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileH1FRNa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49935/devtools/browser/73c0a2c3-e74e-49a9-a476-3b5171907cbf
+1638008292313	Marionette	INFO	Listening on port 39513
+1638008292412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1638008305288	Marionette	INFO	Stopped listening on port 39513
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638008311747	geckodriver	INFO	Listening on 127.0.0.1:51249
+1638008312249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52905" "-no-remote" "-profile" "/tmp/rust_mozprofileExngsc"
+
+(firefox:49060): Gtk-WARNING **: 11:18:32.274: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1638008312602	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileExngsc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52905/devtools/browser/9cb324e4-7da6-4b73-8451-6eb830403012
+1638008313301	Marionette	INFO	Listening on port 37887
+1638008313360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1638008355884	Marionette	INFO	Stopped listening on port 37887
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638008357571	geckodriver	INFO	Listening on 127.0.0.1:37067
+1638008357574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56631" "-no-remote" "-profile" "/tmp/rust_mozprofileD0O6rn"
+
+(firefox:49413): Gtk-WARNING **: 11:19:17.597: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1638008357910	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileD0O6rn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56631/devtools/browser/29d2c04a-01cd-49eb-869a-0dfd482f9b88
+1638008358629	Marionette	INFO	Listening on port 35515
+1638008358684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1638008469052	geckodriver	INFO	Listening on 127.0.0.1:51437
+1638008469054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42307" "-no-remote" "-profile" "/tmp/rust_mozprofile3iu0pr"
+
+(firefox:49836): Gtk-WARNING **: 11:21:09.079: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1638008469396	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3iu0pr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42307/devtools/browser/3ef5a10c-47cc-491a-aa7b-c031ac30de69
+1638008470091	Marionette	INFO	Listening on port 40323
+1638008470166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1638008471070	Marionette	INFO	Stopped listening on port 35515
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638008505448	geckodriver	INFO	Listening on 127.0.0.1:35019
+1638008505454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43493" "-no-remote" "-profile" "/tmp/rust_mozprofilehFfWq1"
+
+(firefox:50176): Gtk-WARNING **: 11:21:45.476: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1638008505841	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehFfWq1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43493/devtools/browser/7b3936b5-5016-4541-b582-50a57c52ffd4
+1638008506867	Marionette	INFO	Listening on port 41603
+1638008506965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638008507478	Marionette	INFO	Stopped listening on port 40323
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1638008535073	Marionette	INFO	Stopped listening on port 41603
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638008536926	geckodriver	INFO	Listening on 127.0.0.1:45397
+1638008536929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36553" "-no-remote" "-profile" "/tmp/rust_mozprofileKvwHOZ"
+
+(firefox:50494): Gtk-WARNING **: 11:22:16.949: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1638008537251	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKvwHOZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36553/devtools/browser/024caf59-9002-4c60-b238-a788a743b6d8
+1638008537954	Marionette	INFO	Listening on port 44297
+1638008538039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1638008583416	geckodriver	INFO	Listening on 127.0.0.1:44627
+1638008583918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35851" "-no-remote" "-profile" "/tmp/rust_mozprofileuO5OEx"
+
+(firefox:51078): Gtk-WARNING **: 11:23:03.940: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1638008584354	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuO5OEx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35851/devtools/browser/3f958967-ee05-44d4-891b-b2b6de537e5a
+1638008585224	Marionette	INFO	Listening on port 36709
+1638008585329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638008585866	Marionette	INFO	Stopped listening on port 44297
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1638008615459	Marionette	INFO	Stopped listening on port 36709
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638008618612	geckodriver	INFO	Listening on 127.0.0.1:46487
+1638008618614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45443" "-no-remote" "-profile" "/tmp/rust_mozprofileyI1pB8"
+
+(firefox:51425): Gtk-WARNING **: 11:23:38.636: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1638008618946	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyI1pB8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45443/devtools/browser/1d61ed40-e18d-46d5-a8f3-11d0b7ec992c
+1638008619654	Marionette	INFO	Listening on port 34117
+1638008619725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1638008882526	Marionette	INFO	Stopped listening on port 34117
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638008886241	geckodriver	INFO	Listening on 127.0.0.1:53625
+1638008886249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44001" "-no-remote" "-profile" "/tmp/rust_mozprofileboRk3n"
+
+(firefox:52014): Gtk-WARNING **: 11:28:06.272: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1638008886627	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileboRk3n/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44001/devtools/browser/481ac987-88d8-4d4a-a3bb-98f6a531f2e6
+1638008887431	Marionette	INFO	Listening on port 36123
+1638008887461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1638008950990	Marionette	INFO	Stopped listening on port 36123
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638009047167	geckodriver	INFO	Listening on 127.0.0.1:39033
+1638009047170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "59313" "-no-remote" "-profile" "/tmp/rust_mozprofile1hdNzs"
+*** You are running in headless mode.
+
+(firefox:53090): Gtk-WARNING **: 11:30:47.192: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1638009047360	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1hdNzs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59313/devtools/browser/d9990bfd-2fd2-4011-87ab-cab15d3ef236
+1638009047903	Marionette	INFO	Listening on port 42415
+1638009047980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
