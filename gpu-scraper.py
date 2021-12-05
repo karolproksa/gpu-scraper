@@ -1,8 +1,11 @@
+import geckodriver_autoinstaller
 import time
 from selenium.webdriver.common.by import By
 
 from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
+
+geckodriver_autoinstaller.install()
 
 # Headless run
 options = Options()
