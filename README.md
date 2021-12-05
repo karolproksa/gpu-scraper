@@ -2,6 +2,11 @@
 A python script for scraping prices of GPUs.
 Miners and fellow gamers are welcome.
 
+# Features
+* Scraping names of Allegro Lokalnie offers
+* Scraping prices of GPUs
+* Scraping current profitability
+* Calculating GPU's RoI based on its price and current profitability
 # How to use it
 ### Install
 `git clone https://github.com/karolproksa/gpu-scraper` <br>
@@ -12,7 +17,6 @@ Miners and fellow gamers are welcome.
 > Make sure you're in the gpu-scraper/ directory
 
 # To Do
-* Calculate RoI on GPU taking their prices into account
 * Find a way to avoid hitting Allegro's rate limit
 * Add support for Allegro, not just Allegro Lokalnie
 * Scrape links for easier access

@@ -250,3 +250,675 @@ console.log: WebExtensions: reset-default-search: No addons in our list are inst
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1638708829662	geckodriver	INFO	Listening on 127.0.0.1:58347
+1638708829664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "46887" "-no-remote" "-profile" "/tmp/rust_mozprofileFaelnW"
+*** You are running in headless mode.
+1638708831065	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFaelnW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46887/devtools/browser/b6b26a16-d1ba-4d77-b910-8bcdc3ccb5ea
+1638708831881	Marionette	INFO	Listening on port 34237
+1638708831981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1638708860468	geckodriver	INFO	Listening on 127.0.0.1:54997
+1638708860974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "55257" "-no-remote" "-profile" "/tmp/rust_mozprofile0ndYBf"
+*** You are running in headless mode.
+1638708861901	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0ndYBf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55257/devtools/browser/1722a8b2-96d4-4d97-a486-784f38a856fb
+1638708862766	Marionette	INFO	Listening on port 38589
+1638708862795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1638708908299	geckodriver	INFO	Listening on 127.0.0.1:47835
+1638708908801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "46297" "-no-remote" "-profile" "/tmp/rust_mozprofileW4WeOl"
+*** You are running in headless mode.
+1638708909767	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW4WeOl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46297/devtools/browser/4b19c437-1272-4478-9093-4a0bdb18c5b5
+1638708910722	Marionette	INFO	Listening on port 41007
+1638708910818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1638709162735	geckodriver	INFO	Listening on 127.0.0.1:49105
+1638709163237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "48273" "-no-remote" "-profile" "/tmp/rust_mozprofileMcnZDJ"
+*** You are running in headless mode.
+1638709163797	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMcnZDJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48273/devtools/browser/b7a35d41-c88f-43ac-ae1a-b39882b61a63
+1638709164694	Marionette	INFO	Listening on port 40697
+1638709164753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1638709206110	geckodriver	INFO	Listening on 127.0.0.1:44159
+1638709206612	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "44845" "-no-remote" "-profile" "/tmp/rust_mozprofile7qva1f"
+*** You are running in headless mode.
+1638709207498	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7qva1f/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44845/devtools/browser/5744d6df-d40d-4b8e-b381-8f898d2f389e
+1638709208371	Marionette	INFO	Listening on port 33147
+1638709208429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1638709245933	geckodriver	INFO	Listening on 127.0.0.1:40047
+1638709246435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "41827" "-no-remote" "-profile" "/tmp/rust_mozprofileLfCWR9"
+*** You are running in headless mode.
+1638709247318	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLfCWR9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41827/devtools/browser/99ac457e-eea7-4717-a4ff-3f4526ebd7bb
+1638709248171	Marionette	INFO	Listening on port 32817
+1638709248251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1638709352218	geckodriver	INFO	Listening on 127.0.0.1:44779
+1638709352723	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "50455" "-no-remote" "-profile" "/tmp/rust_mozprofileHVyRT6"
+*** You are running in headless mode.
+1638709353098	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHVyRT6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50455/devtools/browser/cd388fcc-9b8d-49b4-8ae3-d9d36867a901
+1638709354060	Marionette	INFO	Listening on port 43117
+1638709354170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1638709448446	geckodriver	INFO	Listening on 127.0.0.1:49329
+1638709448949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "43379" "-no-remote" "-profile" "/tmp/rust_mozprofileWqiDWH"
+*** You are running in headless mode.
+1638709449825	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWqiDWH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43379/devtools/browser/a5f07987-ef9c-40a4-b24d-12b539b77770
+1638709450687	Marionette	INFO	Listening on port 45115
+1638709450764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1638709664272	geckodriver	INFO	Listening on 127.0.0.1:41593
+1638709664274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "56053" "-no-remote" "-profile" "/tmp/rust_mozprofileL6LE0P"
+*** You are running in headless mode.
+1638709665673	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileL6LE0P/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56053/devtools/browser/4423b25f-54e1-4251-92c3-85b0f1bf6a82
+1638709666807	Marionette	INFO	Listening on port 42953
+1638709666893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ZhD25ev4EfR-XFP19TbfDo9DHcMa9GGM1cDlPvVEM3Q.js line 1 > eval line 5141 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1638709682445&ver1=2.2.3&qid=83233313f553333313f513430313&rnd=g5yyrpltr389&cid=1041 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=161102, line 1: ReferenceError: CommonMeta is not defined
+1638709723117	geckodriver	INFO	Listening on 127.0.0.1:59797
+1638709723118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "46235" "-no-remote" "-profile" "/tmp/rust_mozprofileX9SsUo"
+*** You are running in headless mode.
+1638709724555	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileX9SsUo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46235/devtools/browser/f3974384-0e8b-459b-8e1b-fa1b4ae23ba7
+1638709725406	Marionette	INFO	Listening on port 44207
+1638709725440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ZhD25ev4EfR-XFP19TbfDo9DHcMa9GGM1cDlPvVEM3Q.js line 1 > eval line 7458 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1638709734512&ver1=2.2.3&qid=83233313f553333313f513430313&rnd=ekodsgj9ggce&cid=1041 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=161102, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638709887925	geckodriver	INFO	Listening on 127.0.0.1:36537
+1638709888427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "50493" "-no-remote" "-profile" "/tmp/rust_mozprofileVmZpe9"
+*** You are running in headless mode.
+1638709889032	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVmZpe9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50493/devtools/browser/62e4d684-4414-4f61-9310-11eb75105a03
+1638709889885	Marionette	INFO	Listening on port 36009
+1638709889943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ZhD25ev4EfR-XFP19TbfDo9DHcMa9GGM1cDlPvVEM3Q.js line 1 > eval line 4592 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ZhD25ev4EfR-XFP19TbfDo9DHcMa9GGM1cDlPvVEM3Q.js line 1 > eval line 2773 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ZhD25ev4EfR-XFP19TbfDo9DHcMa9GGM1cDlPvVEM3Q.js line 1 > eval line 4854 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1638709901723&ver1=2.2.3&qid=83233313f553333313f513430313&rnd=ncs1rbg4zb4m&cid=1041 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=161102, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638710042648	geckodriver	INFO	Listening on 127.0.0.1:49235
+1638710043150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "35727" "-no-remote" "-profile" "/tmp/rust_mozprofileakvktk"
+*** You are running in headless mode.
+1638710043912	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileakvktk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35727/devtools/browser/425d5e5c-7064-4714-83a5-b2c6d0ce80c9
+1638710044773	Marionette	INFO	Listening on port 36037
+1638710044866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ZhD25ev4EfR-XFP19TbfDo9DHcMa9GGM1cDlPvVEM3Q.js line 1 > eval line 6293 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ZhD25ev4EfR-XFP19TbfDo9DHcMa9GGM1cDlPvVEM3Q.js line 1 > eval line 6049 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ZhD25ev4EfR-XFP19TbfDo9DHcMa9GGM1cDlPvVEM3Q.js line 1 > eval line 3111 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1638710055961&ver1=2.2.3&qid=83233313f553333313f513430313&rnd=gbcmna0vfyzj&cid=1041 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=161102, line 1: ReferenceError: CommonMeta is not defined
+1638710091125	geckodriver	INFO	Listening on 127.0.0.1:34639
+1638710091627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "54611" "-no-remote" "-profile" "/tmp/rust_mozprofileAWsMZs"
+*** You are running in headless mode.
+1638710092231	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAWsMZs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54611/devtools/browser/c131579f-4b1c-4204-bd7d-14a7bf1562ed
+1638710093130	Marionette	INFO	Listening on port 42009
+1638710093144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ZhD25ev4EfR-XFP19TbfDo9DHcMa9GGM1cDlPvVEM3Q.js line 1 > eval line 1146 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ZhD25ev4EfR-XFP19TbfDo9DHcMa9GGM1cDlPvVEM3Q.js line 1 > eval line 6113 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ZhD25ev4EfR-XFP19TbfDo9DHcMa9GGM1cDlPvVEM3Q.js line 1 > eval line 5686 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1638710105124&ver1=2.2.3&qid=83233313f553333313f513430313&rnd=dz3c1hg0p7i6&cid=1041 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: ReferenceError: CommonMeta is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638710119635	geckodriver	INFO	Listening on 127.0.0.1:44725
+1638710120137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55505" "-no-remote" "-profile" "/tmp/rust_mozprofilea0WU5J"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1638710121003	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea0WU5J/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55505/devtools/browser/73d3560c-3b0c-49bd-8a52-feee9a344d98
+1638710122201	Marionette	INFO	Listening on port 34267
+1638710122275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ZhD25ev4EfR-XFP19TbfDo9DHcMa9GGM1cDlPvVEM3Q.js line 1 > eval line 2523 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=161102, line 1: ReferenceError: CommonMeta is not defined
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1638710135401&ver1=2.2.3&qid=83233313f553333313f513430313&rnd=fkn5co2vi6nh&cid=1041 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:442:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2091:35
+addAllSources@resource://devtools/server/actors/thread.js:1446:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:175:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:52:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:582:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:496:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://fonts.googleapis.com/css?family=Montserrat:400,600,700,800,900&display=swap without a browsingContextID set
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1638710162063	Marionette	INFO	Stopped listening on port 34267
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638710238582	geckodriver	INFO	Listening on 127.0.0.1:59961
+1638710238584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38211" "-no-remote" "-profile" "/tmp/rust_mozprofilenzvnuR"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1638710240045	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenzvnuR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38211/devtools/browser/0b21a83a-06d9-4b15-b6b5-1e9c38a92aae
+1638710241135	Marionette	INFO	Listening on port 35437
+1638710241204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638710251212	Marionette	INFO	Stopped listening on port 35437
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638710354777	geckodriver	INFO	Listening on 127.0.0.1:41181
+1638710354779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33899" "-no-remote" "-profile" "/tmp/rust_mozprofilepfDomd"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1638710355955	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepfDomd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33899/devtools/browser/cc94e824-6e73-489e-8daf-a5f14e14b678
+1638710357043	Marionette	INFO	Listening on port 36967
+1638710357095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638710393051	Marionette	INFO	Stopped listening on port 36967
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638710452727	geckodriver	INFO	Listening on 127.0.0.1:46241
+1638710453229	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35679" "-no-remote" "-profile" "/tmp/rust_mozprofileWNtnFm"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1638710453883	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWNtnFm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35679/devtools/browser/e839760d-78e7-4c4f-97f5-b349e98c6518
+1638710455216	Marionette	INFO	Listening on port 38587
+1638710455249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638710479967	Marionette	INFO	Stopped listening on port 38587
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638710483805	geckodriver	INFO	Listening on 127.0.0.1:60395
+1638710483807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54627" "-no-remote" "-profile" "/tmp/rust_mozprofileXHm0hy"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1638710485291	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXHm0hy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54627/devtools/browser/201c7daf-8a5e-4163-ac5a-ad57b5a1d4dc
+1638710486413	Marionette	INFO	Listening on port 34615
+1638710486433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.coinzilla.io/html_customers/4ab3536be228ce465ad1e565a84f3081/index.html, line 9: SyntaxError: expected expression, got '%'
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638710516981	Marionette	INFO	Stopped listening on port 34615
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638710581666	geckodriver	INFO	Listening on 127.0.0.1:53049
+1638710582168	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43459" "-no-remote" "-profile" "/tmp/rust_mozprofileioBzkM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1638710583086	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileioBzkM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43459/devtools/browser/dfe940af-304b-4d94-a35c-7dc66608831f
+1638710584163	Marionette	INFO	Listening on port 41067
+1638710584195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638710604545	Marionette	INFO	Stopped listening on port 41067
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638710608991	geckodriver	INFO	Listening on 127.0.0.1:55619
+1638710609493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55171" "-no-remote" "-profile" "/tmp/rust_mozprofilex8CqN9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1638710610156	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilex8CqN9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55171/devtools/browser/f598ef73-04fd-4516-9c35-3f159d8f1923
+1638710611308	Marionette	INFO	Listening on port 40079
+1638710611426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638710624763	Marionette	INFO	Stopped listening on port 40079
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638710650599	geckodriver	INFO	Listening on 127.0.0.1:40391
+1638710651101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38377" "-no-remote" "-profile" "/tmp/rust_mozprofileJeHdj6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1638710652013	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJeHdj6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38377/devtools/browser/b47aecae-b0ff-4a9e-8bbb-eded8dc0b9b6
+1638710653087	Marionette	INFO	Listening on port 33441
+1638710653124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://lokalnie-prod-assets.storage.googleapis.com/ui/versions/9008e91a/assets/listing-e9849dfff591e8388017ccde68249442.js?vsn=d, line 41: Error: Request failed with status code 429
+1638710684083	Marionette	INFO	Stopped listening on port 33441
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638710757001	geckodriver	INFO	Listening on 127.0.0.1:36263
+1638710757002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56227" "-no-remote" "-profile" "/tmp/rust_mozprofileX5qL4M"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1638710758063	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileX5qL4M/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56227/devtools/browser/ca3a183c-40f1-492b-8948-4165ee735e47
+1638710759425	Marionette	INFO	Listening on port 43139
+1638710759522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638711058767	geckodriver	INFO	Listening on 127.0.0.1:50459
+1638711058768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "54939" "-no-remote" "-profile" "/tmp/rust_mozprofilezNF0Sk"
+*** You are running in headless mode.
+1638711060206	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezNF0Sk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54939/devtools/browser/167f7db3-28c7-4df8-a539-038a2a3d8a8f
+1638711061246	Marionette	INFO	Listening on port 33861
+1638711061289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638711084867	geckodriver	INFO	Listening on 127.0.0.1:50953
+1638711085369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "59731" "-no-remote" "-profile" "/tmp/rust_mozprofileEfnaEc"
+*** You are running in headless mode.
+1638711085935	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEfnaEc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59731/devtools/browser/75f737da-adc6-49b9-a6e8-8e1091802111
+1638711086955	Marionette	INFO	Listening on port 33327
+1638711086990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638711140075	geckodriver	INFO	Listening on 127.0.0.1:59811
+1638711140076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "34229" "-no-remote" "-profile" "/tmp/rust_mozprofile1OW0iN"
+*** You are running in headless mode.
+1638711141226	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1OW0iN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34229/devtools/browser/99ea886e-b45e-4279-aeb0-0c8034a64c4d
+1638711142221	Marionette	INFO	Listening on port 42821
+1638711142298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638711660558	geckodriver	INFO	Listening on 127.0.0.1:38475
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638711661060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "60837" "-no-remote" "-profile" "/tmp/rust_mozprofileP0bqrz"
+*** You are running in headless mode.
+1638711661783	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileP0bqrz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60837/devtools/browser/a46d8af8-7248-4d09-b98b-4341207c0557
+1638711662768	Marionette	INFO	Listening on port 36581
+1638711662876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ZhD25ev4EfR-XFP19TbfDo9DHcMa9GGM1cDlPvVEM3Q.js line 1 > eval line 6363 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638711677688	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ZhD25ev4EfR-XFP19TbfDo9DHcMa9GGM1cDlPvVEM3Q.js line 1 > eval line 3299 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638712065760	geckodriver	INFO	Listening on 127.0.0.1:50943
+1638712065762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "34613" "-no-remote" "-profile" "/tmp/rust_mozprofileINyCrh"
+*** You are running in headless mode.
+1638712070731	geckodriver	INFO	Listening on 127.0.0.1:40515
+1638712071233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "34395" "-no-remote" "-profile" "/tmp/rust_mozprofileivHrMM"
+*** You are running in headless mode.
+1638712071496	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileivHrMM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34395/devtools/browser/530a71d7-06c3-45b8-b3c3-395ca5e70786
+1638712072388	Marionette	INFO	Listening on port 35419
+1638712072448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638712091836	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638712531422	geckodriver	INFO	Listening on 127.0.0.1:39853
+1638712531918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "45863" "-no-remote" "-profile" "/tmp/rust_mozprofileVW5Cq4"
+*** You are running in headless mode.
+1638712532847	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVW5Cq4/search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:45863/devtools/browser/9ceba5b4-16de-4b75-9f63-d169ba82f078
+1638712533759	Marionette	INFO	Listening on port 46545
+1638712533834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
